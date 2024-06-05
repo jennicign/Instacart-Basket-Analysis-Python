@@ -16,3 +16,11 @@ Instacart is an online grocery store that operates through an app. Instacart alr
    -  Is there a connection between age and family status in terms of ordering habits?
    - What different classifications does the demographic information suggest? Age? Income? Certain types of goods? Family status?
    - What differences can you find in ordering habits of different customer profiles? Consider the price of orders, the frequency of orders, the products customers are ordering, and anything else you can think of.
+## Data Sources
+_This project leverages open-source datasets from Instacart, and specially created customer and prices datasets by CareerFoundry for elarning purposes of the course. These resources are integral to addressing the outlined business questions._
+
+[Instacart Online Grocery Shopping Dataset 2017](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis/data?select=departments.csv) via Kaggle
+
+## Tools
+
+Folders
