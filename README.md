@@ -21,6 +21,3 @@ _This project leverages open-source datasets from Instacart, and specially creat
 
 [Instacart Online Grocery Shopping Dataset 2017](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis/data?select=departments.csv) via Kaggle
 
-## Tools
-
-Folders
